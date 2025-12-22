@@ -42,12 +42,6 @@ COVID-19-STREAMLIT-ML/
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation.
 
-## ▶️ How to Run the Project
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/sivaparvathi620/COVID-19-STREAMLIT-ML.git
-cd COVID-19-STREAMLIT-ML
 
 ## ✨ Features
 
