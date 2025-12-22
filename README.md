@@ -41,3 +41,49 @@ COVID-19-STREAMLIT-ML/
 ├── model_training.py # Machine Learning model training
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation.
+
+## ▶️ How to Run the Project
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/sivaparvathi620/COVID-19-STREAMLIT-ML.git
+cd COVID-19-STREAMLIT-ML
+
+## ✨ Features
+
+* Interactive COVID-19 data visualization
+
+* Machine Learning based prediction system
+
+* Clean and responsive Streamlit UI
+
+* Easy to use and understand interface
+
+## ➕ Additional Features
+
+* Dynamic charts and graphs
+
+* Efficient data preprocessing
+
+* Fast model loading and prediction
+
+* Scalable project structure for future upgrades
+
+## 🧪 Results
+
+* The Random Forest model provides accurate predictions based on historical data
+
+* Visual analysis helps identify COVID-19 trends clearly
+
+* The application performs efficiently for user inputs
+
+## 🎯 Conclusion
+
+This project successfully demonstrates the integration of Machine Learning and Streamlit
+to build an interactive COVID-19 prediction web application.
+It showcases data analysis, model training, and deployment in a real-world scenario.
+The project is scalable and can be enhanced further.
+
+
+
+
