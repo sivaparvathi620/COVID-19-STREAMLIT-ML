@@ -7,7 +7,7 @@ for better understanding of COVID-19 patterns.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 - Analyze real-world COVID-19 data
 - Train a Machine Learning model for prediction
 - Build an interactive web app using Streamlit
@@ -15,7 +15,7 @@ for better understanding of COVID-19 patterns.
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 - Data preprocessing and cleaning
 - Feature selection
 - Model training using **Random Forest**
@@ -23,7 +23,7 @@ for better understanding of COVID-19 patterns.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python**
 - **Streamlit**
 - **Pandas**
@@ -34,7 +34,7 @@ for better understanding of COVID-19 patterns.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 COVID-19-STREAMLIT-ML/
 │
 ├── app.py # Streamlit web application
@@ -43,7 +43,7 @@ COVID-19-STREAMLIT-ML/
 ├── README.md # Project documentation.
 
 
-## ✨ Features
+##  Features
 
 * Interactive COVID-19 data visualization
 
@@ -63,7 +63,7 @@ COVID-19-STREAMLIT-ML/
 
 * Scalable project structure for future upgrades
 
-## 🧪 Results
+##  Results
 
 * The Random Forest model provides accurate predictions based on historical data
 
@@ -71,7 +71,7 @@ COVID-19-STREAMLIT-ML/
 
 * The application performs efficiently for user inputs
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project successfully demonstrates the integration of Machine Learning and Streamlit
 to build an interactive COVID-19 prediction web application.
