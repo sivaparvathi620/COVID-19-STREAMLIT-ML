@@ -53,7 +53,7 @@ COVID-19-STREAMLIT-ML/
 
 * Easy to use and understand interface
 
-## ➕ Additional Features
+##  Additional Features
 
 * Dynamic charts and graphs
 
